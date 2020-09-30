@@ -1,6 +1,6 @@
 
 # Wordpress Docker Config
-This repo holds the docker-compose config necessary for setting up a local Wordpress docker image. This makes it easy to setup as many Wordpress images locally manage all your wordpress sites.
+This repo holds the docker-compose config necessary for setting up a local Wordpress docker image. This makes it easy to setup many Wordpress images locally to manage all your wordpress sites.
 
 ## Quick Commands
 
